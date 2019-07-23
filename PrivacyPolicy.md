@@ -1,4 +1,4 @@
-# Developers Toolbox Privacy Policy 
+# Recipe Collection Privacy Policy 
 
 ## Personal information
 This application does not collect or transmit any user's personally identifiable information. No personal information is used, stored, secured or disclosed by services this application works with. 

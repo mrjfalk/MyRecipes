@@ -1,19 +1,41 @@
-# Recipe Collection Privacy Policy 
+# Privacy policy
+Thanks for using Recipe Collection ("application", "service", "we", "us", or "our"). We are commited to protecting your rights to privacy. This privacy policy applies to all our mobile applications and related servies, sales, and marketing.
 
-## Personal information
-This application does not collect or transmit any user's personally identifiable information. No personal information is used, stored, secured or disclosed by services this application works with. 
+## 1. What personal data do we collect?
 
-## Technical information
-Limited technical information is sent (such as IP addresses included in the HTTP calls the application makes) but none of that is used or stored.
+### 1.1 Without an account
+By using the application without an account we only collect anonymous app usage and similar data.
 
-## Statistical information
-A small set of non-identifiable information is sent to one or more of the organisations below for statistical information about app usage, device type and capabilities. Statistical service providers:
+### 1.2 With an account
+By signing upp for an account we collect the following data:
+- Name and nickname
+- Email addresses
+- Country of residence
+- App usage and similar data
 
-[Microsoft](http://www.microsoft.com)
+## 2. How can I change or delete the collected data?
+To update or delete the collected data, please contact support@recipe-collection.net.
 
-## Third parties
-This application does not share any information with third parties, with two exceptions;
+## 3. How do we use collected data?
+We use the collected data for the following purposes:
+- To create, sign-in to, and manage your account. If you sign in with a third-party social media account we will collect the required information for this purpose from the third-party service.
+- To provide and maintain the service.
+- To notify you of changes to our service.
+- To comply with legal requests and laws.
+- To monitor and improve the service. We may use your information for data usage analysis, and similar to evaluate and improve our services and marketing.
 
-1. The roaming data-service from [Microsoft](http://www.microsoft.com) which roams user information across devices on which the user is logged in to with their Microsoft account. This enables your data to be available on all your devices.
-2. Any apps the user copies or share data to or from our apps. Only the information needed for the share/copy operation will be shared to the other app in order for it to do its work.
-3. Any website you import a recipe from might store information required to access the website (such as IP addresses included in the HTTP calls the application make to retrieve the page).
+## 4. With who do we share the data?
+We may share the collected data with third-parties for the above mentioned purposes. Below are the third-parties we may share data with, and for what purpose:
+
+- Register and sign-in using Social media accounts, using a Google account, Facebook account, Twitter account, and/or Microsoft account.
+- Microsoft Azure for service hosting, account management, cloud computing, storage, and authentication.
+- Microsoft App Center and Application Insights for data usage, analytics, and service monitoring.
+
+## 5. How long do we store the collected data?
+The collected data will be stored for up to 90 days after you have terminated your account, unless otherwise required by law.
+
+## 6. Updates to this privacy policy
+We may update this policy. We might notify you or make a notification in our services for material changes. We encourage that you frequently review this privacy policy.
+
+## 7. Contact
+You can contact us by emailing support@recipe-collection.net if you have any questions regarding this policy.
